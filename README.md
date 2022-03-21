@@ -1,4 +1,6 @@
-Your task is to create a java window application with the Swing library. The user interface of the application must consist of:
+Java window application using Swing library. 
+
+The user interface of the application consists of:
 * canvas
 * side menu (you can choose the location of this side menu freely)
 
